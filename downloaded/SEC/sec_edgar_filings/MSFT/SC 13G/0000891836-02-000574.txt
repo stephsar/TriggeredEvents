@@ -1,0 +1,1261 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AYP+dn5TXl6kOvNMNJD+EXSnX8j2bZde3vaZVnSdsxrc+r9RtdzQKwLU0IzIrcnh
+ n/lWOUw/eS5lJZtXUmUPtQ==
+
+<SEC-DOCUMENT>0000891836-02-000574.txt : 20021125
+<SEC-HEADER>0000891836-02-000574.hdr.sgml : 20021125
+<ACCEPTANCE-DATETIME>20021125172639
+ACCESSION NUMBER:		0000891836-02-000574
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20021125
+GROUP MEMBERS:		MICROSOFT LICENSING, INC.
+GROUP MEMBERS:		MICROSOFT T-HOLDINGS, INC.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMCAST CORP
+		CENTRAL INDEX KEY:			0001166691
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		IRS NUMBER:				270000798
+		STATE OF INCORPORATION:			PA
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-78608
+		FILM NUMBER:		02839810
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 MARKET STREET
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AT&T COMCAST CORP
+		DATE OF NAME CHANGE:	20020206
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY #BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052
+		BUSINESS PHONE:		4258828080
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY - BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>sc0329.htm
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+ <HTML>
+<HEAD>
+<TITLE>
+SCHEDULE 13G
+</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER>
+<FONT SIZE=-1><B>UNITED STATES</B><BR>
+<B>SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B></FONT><BR><BR>
+
+
+<B><FONT SIZE=+1>SCHEDULE 13G</FONT></B><BR>
+<FONT SIZE=-1><B>Under the Securities Exchange Act of 1934</B><BR><BR>
+(Amendment No. ___)*</FONT><BR><BR><BR>
+
+
+Comcast Corporation
+<HR SIZE=1 NOSHADE>
+<FONT SIZE=-1>(Name of Issuer)</FONT><BR>
+<BR><BR>
+
+
+Comcast Corporation Class A Common Stock<BR>
+par value $0.01 per share
+<HR SIZE=1 NOSHADE>
+<FONT SIZE=-1>(Title of Class of Securities)</FONT><BR>
+<BR><BR>
+
+
+20030N 10 1
+<HR SIZE=1 NOSHADE>
+<FONT SIZE=-1>(CUSIP Number)</FONT><BR>
+<BR><BR>
+
+
+November 18, 2002
+<HR SIZE=1 NOSHADE>
+<FONT SIZE=-1>(Date of Event Which Requires Filing of this Statement)</FONT>
+</CENTER>
+<BR>
+
+<P><FONT SIZE=-1>
+Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+</FONT>
+</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR>
+     <TD WIDTH=5%> </TD>
+     <TD WIDTH=5%><FONT SIZE=-1>[&nbsp;&nbsp;&nbsp;]<BR><BR>
+                                [X]<BR><BR>
+                                [&nbsp;&nbsp;&nbsp;]</FONT></TD>
+     <TD WIDTH=90%><FONT SIZE=-1>Rule 13d-1(b)<BR><BR>
+                                 Rule 13d-1(c)<BR><BR>
+                                 Rule 13d-1(d)</FONT></TD>
+</TR>
+</TABLE>
+
+<P>
+<FONT SIZE=-1>*The remainder of this cover page shall be filled out for a reporting
+person&#146;s initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.</FONT>
+</P>
+
+<P>
+<FONT SIZE=-1>The information required on the remainder of this cover page shall not be
+deemed to be &#147;filed&#148; for the purpose of Section 18 of the Securities
+Exchange Act of 1934 (&#147;Act&#148;) or otherwise subject to the liabilities
+of that section of the Act but shall be subject to all other provisions of the
+Act (however, see the Notes).</FONT>
+</P>
+
+<P>
+<FONT SIZE=-1><B>Potential persons who are to respond to the collection of
+information contained in this form are not required to respond unless the form
+displays a currently valid OMB control number.</B></FONT>
+</P>
+
+<PAGE>
+<BR>
+
+<P><FONT SIZE=+1><B>SCHEDULE 13G</B></FONT></P>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+</TR>
+<TR>
+<TD WIDTH=33% ALIGN=LEFT><B><FONT SIZE=+1>CUSIP No.</FONT></B>&nbsp;&nbsp;20030N 10 1</TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33% ALIGN=LEFT><B><FONT SIZE=+1>Page</FONT></B>&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;<B>
+<FONT SIZE=+1>of</FONT></B>&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;<B><FONT SIZE=+1>Pages</FONT></B></TD>
+</TR>
+<TR>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE><BR></TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>1</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>NAMES OF REPORTING PERSONS<BR>
+                   I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)</FONT><BR><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Corporation</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>2</FONT></B> </TD>
+     <TD WIDTH=95%><FONT SIZE=-1>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)</FONT><BR>
+                                  <B>(a)&nbsp;&nbsp;</B>[&nbsp;]<BR>
+                                  <B>(b)</B>&nbsp;&nbsp;[&nbsp;]</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>3</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>SEC USE ONLY</FONT><BR>
+&nbsp;&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>4</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>CITIZENSHIP OR PLACE OF ORGANIZATION</FONT><BR><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   State of Washington</TD>
+</TR>
+</TABLE>
+
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR>
+     <TD ALIGN=CENTER WIDTH=15% ROWSPAN=4>
+<FONT SIZE=-1><B>NUMBER OF<BR>
+SHARES<BR>
+BENEFICIALLY<BR>
+OWNED BY<BR>
+EACH<BR>
+REPORTING<BR>
+PERSON<BR>
+WITH:</B></FONT>
+</TD>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>5</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SOLE VOTING POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               100,623,717</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>6</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SHARED VOTING POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               0</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>7</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SOLE DISPOSITIVE POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               100,623,717</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>8</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SHARED DISPOSITIVE POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               0</TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>9</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100,623,717</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>10</FONT></B> </TD>
+     <TD WIDTH=85%><FONT SIZE=-1>CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+                   (SEE INSTRUCTIONS)</FONT></TD>
+     <TD WIDTH=15% ALIGN=RIGHT>[&nbsp;] </TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>11</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4%</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>12</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CO</TD>
+</TR>
+</TABLE>
+
+<PAGE>
+<BR>
+
+<P><FONT SIZE=+1><B>SCHEDULE 13G</B></FONT></P>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+</TR>
+<TR>
+<TD WIDTH=33% ALIGN=LEFT><B><FONT SIZE=+1>CUSIP No.</FONT></B>&nbsp;&nbsp;20030N 10 1</TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33% ALIGN=LEFT><B><FONT SIZE=+1>Page</FONT></B>&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;<B>
+<FONT SIZE=+1>of</FONT></B>&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;<B><FONT SIZE=+1>Pages</FONT></B></TD>
+</TR>
+<TR>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE><BR></TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>1</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>NAMES OF REPORTING PERSONS<BR>
+                   I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)</FONT><BR><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Licensing, Inc.</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>2</FONT></B> </TD>
+     <TD WIDTH=95%><FONT SIZE=-1>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)</FONT><BR>
+                                  <B>(a)&nbsp;&nbsp;</B>[&nbsp;]<BR>
+                                  <B>(b)</B>&nbsp;&nbsp;[&nbsp;]</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>3</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>SEC USE ONLY</FONT><BR>
+&nbsp;&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>4</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>CITIZENSHIP OR PLACE OF ORGANIZATION</FONT><BR><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   State of Nevada</TD>
+</TR>
+</TABLE>
+
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR>
+     <TD ALIGN=CENTER WIDTH=15% ROWSPAN=4>
+<FONT SIZE=-1><B>NUMBER OF<BR>
+SHARES<BR>
+BENEFICIALLY<BR>
+OWNED BY<BR>
+EACH<BR>
+REPORTING<BR>
+PERSON<BR>
+WITH:</B></FONT>
+</TD>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>5</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SOLE VOTING POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               100,623,717</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>6</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SHARED VOTING POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               0</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>7</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SOLE DISPOSITIVE POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               100,623,717</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>8</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SHARED DISPOSITIVE POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               0</TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>9</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100,623,717</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>10</FONT></B> </TD>
+     <TD WIDTH=85%><FONT SIZE=-1>CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+                   (SEE INSTRUCTIONS)</FONT></TD>
+     <TD WIDTH=15% ALIGN=RIGHT>[&nbsp;] </TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>11</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4%</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>12</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CO</TD>
+</TR>
+</TABLE>
+
+<PAGE>
+<BR>
+
+<P><FONT SIZE=+1><B>SCHEDULE 13G</B></FONT></P>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+</TR>
+<TR>
+<TD WIDTH=33% ALIGN=LEFT><B><FONT SIZE=+1>CUSIP No.</FONT></B>&nbsp;&nbsp;20030N 10 1</TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33% ALIGN=LEFT><B><FONT SIZE=+1>Page</FONT></B>&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;<B>
+<FONT SIZE=+1>of</FONT></B>&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;<B><FONT SIZE=+1>Pages</FONT></B></TD>
+</TR>
+<TR>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE><BR></TD>
+<TD WIDTH=34%>&nbsp;&nbsp;</TD>
+<TD WIDTH=33%><HR SIZE=2 NOSHADE></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>1</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>NAMES OF REPORTING PERSONS<BR>
+                   I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)</FONT><BR><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft T-Holdings, Inc.</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>2</FONT></B> </TD>
+     <TD WIDTH=95%><FONT SIZE=-1>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)</FONT><BR>
+                                  <B>(a)&nbsp;&nbsp;</B>[&nbsp;]<BR>
+                                  <B>(b)</B>&nbsp;&nbsp;[&nbsp;]</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>3</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>SEC USE ONLY</FONT><BR>
+&nbsp;&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>4</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>CITIZENSHIP OR PLACE OF ORGANIZATION</FONT><BR><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   State of Nevada</TD>
+</TR>
+</TABLE>
+
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR>
+     <TD ALIGN=CENTER WIDTH=15% ROWSPAN=4>
+<FONT SIZE=-1><B>NUMBER OF<BR>
+SHARES<BR>
+BENEFICIALLY<BR>
+OWNED BY<BR>
+EACH<BR>
+REPORTING<BR>
+PERSON<BR>
+WITH:</B></FONT>
+</TD>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>5</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SOLE VOTING POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               100,623,717</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>6</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SHARED VOTING POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               0</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>7</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SOLE DISPOSITIVE POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               100,623,717</TD>
+</TR>
+<TR>
+     <TD WIDTH=5% VALIGN=TOP ALIGN=CENTER><B><FONT SIZE=+2>8</FONT></B></TD>
+     <TD  WIDTH=80% VALIGN=TOP><FONT SIZE=-1>SHARED DISPOSITIVE POWER</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                               0</TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>9</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100,623,717</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>10</FONT></B> </TD>
+     <TD WIDTH=85%><FONT SIZE=-1>CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+                   (SEE INSTRUCTIONS)</FONT></TD>
+     <TD WIDTH=15% ALIGN=RIGHT>[&nbsp;] </TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>11</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4%</TD>
+</TR>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=1 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=5% ALIGN=CENTER><B><FONT SIZE=+2>12</FONT></B></TD>
+     <TD WIDTH=95%><FONT SIZE=-1>TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</FONT><BR>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CO</TD>
+</TR>
+</TABLE>
+
+<PAGE>
+
+<P ALIGN=RIGHT>Page 5 of 8</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 1.</B></TD>
+     <TD WIDTH=92%>&nbsp;&nbsp;</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(a)</TD>
+     <TD WIDTH=89%><B>Name of Issuer:</B>&nbsp;&nbsp;Comcast Corporation, a Pennsylvania corporation.</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(b)</TD>
+     <TD WIDTH=89%><B>Address of Issuer&#146;s Principal Executive Offices:</B>&nbsp;&nbsp;<BR>
+1500 Market Street, Philadelphia, PA  19102.</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 2.</B></TD>
+     <TD WIDTH=92%>&nbsp;&nbsp;</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(a)</TD>
+     <TD WIDTH=89%><B>Name of Person Filing:</B>&nbsp;&nbsp;
+Microsoft Corporation, a Washington corporation, Microsoft Licensing, Inc., a
+Nevada corporation and Microsoft T-Holdings, Inc., a Nevada corporation.</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(b)</TD>
+     <TD WIDTH=89%><B>Address of Principal Business Office or, if none, Residence:</B><BR>
+The principal business address of Microsoft Corporation is One Microsoft Way,
+Redmond, Washington 98053. The principal business address of Microsoft
+Licensing, Inc. and Microsoft T-Holdings, Inc. is 6100 Neil Road, Ste. 100 Reno,
+Nevada 89511-1132.
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(c)</TD>
+     <TD WIDTH=89%><B>Citizenship:</B>&nbsp;&nbsp;
+Microsoft Corporation is a Washington corporation. Microsoft Licensing, Inc. and
+Microsoft T-Holdings, Inc. are Nevada corporations.</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(d)</TD>
+     <TD WIDTH=89%><B>Title of Class of Securities:</B>&nbsp;&nbsp;
+Class A Common Stock, Par Value $0.01 per share (the &#147;Shares&#148;).</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(e)</TD>
+     <TD WIDTH=89%><B>CUSIP Number:</B>&nbsp;&nbsp;20030N 10 1</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 3.</B></TD>
+     <TD WIDTH=92%><B>If this statement is filed pursuant to &sect;240.13d-1(b)
+or &sect;240.13d-2(b) or (c), check whether the person filing is a:</B></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(a)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(b)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(c)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>Insurance company as defined in section 3(a)(19) of
+the Act (15 U.S.C. 78c);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(d)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>Investment company registered under section 8 of the
+Investment Company Act of 1940 (15 U.S.C. 80a-8);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<PAGE>
+
+<P ALIGN=RIGHT>Page 6 of 8</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(e)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>An investment adviser in accordance with &sect;240.13d-1(b)(1)(ii)(E);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(f)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>An employee benefit plan or endowment fund in accordance with
+&sect;240.13d-1(b)(1)(ii)(F);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(g)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>A parent holding company or control person in accordance with
+&sect;240.13d-1(b)(1)(ii)(G);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(h)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>A savings association as defined in Section 3(b) of the
+Federal Deposit Insurance Act (12 U.S.C. 1813);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(i)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>A church plan that is excluded from the definition of an
+investment company under section 3(c)(14) of the Investment Company Act of 1940
+(15 U.S.C. 80a-3);</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%> </TD>
+     <TD WIDTH=5%>(j)</TD>
+     <TD WIDTH=5%>[&nbsp;&nbsp;]</TD>
+     <TD WIDTH=84%>Group, in accordance with &sect;240.13d-1(b)(1)(ii)(J).</TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 4.</B></TD>
+     <TD WIDTH=92%><B>Ownership.</B></TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=5%>(a)</TD>
+     <TD WIDTH=89%>Amount beneficially owned:
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=10%>&nbsp;</TD>
+     <TD WIDTH=84%>
+                           See item 9 on Page 2<BR>
+                           See item 9 on Page 3<BR>
+                           See item 9 on Page 4</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=5%>(b)</TD>
+     <TD WIDTH=89%>Percent of class: </TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=10%>&nbsp;</TD>
+     <TD WIDTH=84%>
+                           See item 11 on Page 2<BR>
+                           See item 11 on page 3<BR>
+                           See item 11 on page 4
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=5%>(c)</TD>
+     <TD WIDTH=89%>Number of shares as to which the person has:</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=11%>&nbsp;&nbsp;</TD>
+     <TD WIDTH=5%>(i)</TD>
+     <TD WIDTH=84%>Sole power to vote or to direct the vote:</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=10%>&nbsp;</TD>
+     <TD WIDTH=84%>
+                           See item 5 on Page 2<BR>
+                           See item 5 on Page 3<BR>
+                           See item 5 on Page 4
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=11%>&nbsp;&nbsp;</TD>
+     <TD WIDTH=5%>(ii)</TD>
+     <TD WIDTH=84%>Shared power to vote or to direct the vote:</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=10%>&nbsp;</TD>
+     <TD WIDTH=84%>
+                           See item 6 on Page 2<BR>
+                           See item 6 on Page 3<BR>
+                           See item 6 on Page 4
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<PAGE>
+
+<P ALIGN=RIGHT>Page 7 of 8</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=11%>&nbsp;&nbsp;</TD>
+     <TD WIDTH=5%>(iii)</TD>
+     <TD WIDTH=84%>Sole power to dispose or to direct the disposition of:</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=10%>&nbsp;</TD>
+     <TD WIDTH=84%>
+                           See item 7 on Page 2<BR>
+                           See item 7 on Page 3<BR>
+                           See item 7 on Page 4
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=11%>&nbsp;&nbsp;</TD>
+     <TD WIDTH=5%>(iv)</TD>
+     <TD WIDTH=84%>Shared power to dispose or to direct the disposition of:</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=6%>&nbsp;</TD>
+     <TD WIDTH=10%>&nbsp;</TD>
+     <TD WIDTH=84%>
+                           See item 8 on Page 2<BR>
+                           See item 8 on Page 3<BR>
+                           See item 8 on Page 4
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 5.</B></TD>
+     <TD WIDTH=92%><B>Ownership of Five Percent or Less of a Class.</B></TD>
+</TR>
+</TABLE>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If this statement is being filed to report the fact that as of the date hereof
+the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check the following [ ].</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 6.</B></TD>
+     <TD WIDTH=92%><B>Ownership of More than Five Percent on Behalf of Another
+Person.</B></TD>
+</TR>
+</TABLE>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Not applicable.</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 7.</B></TD>
+     <TD WIDTH=92%><B>Identification and Classification of the Subsidiary Which
+Acquired the Security Being<BR>
+Reported on By the Parent Holding Company or Control Person.</B></TD>
+</TR>
+</TABLE>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+See Exhibit 99.2</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 8.</B></TD>
+     <TD WIDTH=92%><B>Identification and Classification of Members of the
+Group.</B></TD>
+</TR>
+</TABLE>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Not applicable.</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 9.</B></TD>
+     <TD WIDTH=92%><B>Notice of Dissolution of Group.</B></TD>
+</TR>
+</TABLE>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Not applicable.</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=8%><B>ITEM 10.</B></TD>
+     <TD WIDTH=92%><B>Certifications.</B><BR><BR></TD>
+</TR>
+</TABLE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR>
+     <TD WIDTH=10%>&nbsp;</TD>
+     <TD WIDTH=90%>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By
+signing below I certify that, to the best of my knowledge and belief, the
+securities referred to above were not acquired and are not held for the purpose
+of or with the effect of changing or influencing the control of the issuer of
+the securities and were not acquired and are not held in connection with or as a
+participant in any transaction having that purpose or effect.
+</TD>
+</TR>
+</TABLE>
+
+<PAGE>
+
+<P ALIGN=RIGHT>Page 8 of 8</P>
+
+<P ALIGN=CENTER>
+                                <B>SIGNATURE</B>
+</P>
+
+<P>
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+</P>
+
+<P>Dated:  November&nbsp;25, 2002</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 width=90%>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;</TD>
+     <TD COLSPAN=3>MICROSOFT CORPORATION<BR><BR></TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>By: </TD>
+     <TD COLSPAN=2> /s/ John G. Connors</TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>&nbsp;&nbsp; </TD>
+     <TD COLSPAN=2><hr noshade size=1> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%> &nbsp;&nbsp;</TD>
+     <TD WIDTH=8%>
+Name:<BR>
+Title:
+</TD>
+     <TD WIDTH=37%>
+John G. Connors<BR>
+Chief Financial Officer
+</TD>
+</TR>
+</TABLE>
+<BR>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 width=90%>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;</TD>
+     <TD COLSPAN=3>MICROSOFT LICENSING, INC.<BR><BR> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>By: </TD>
+     <TD COLSPAN=2> /s/ Lloyd Brenner</TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>&nbsp;&nbsp; </TD>
+     <TD COLSPAN=2><hr noshade size=1> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%> &nbsp;&nbsp;</TD>
+     <TD WIDTH=8%>
+Name:<BR>
+Title:
+</TD>
+     <TD WIDTH=37%>
+Lloyd Brenner<BR>
+Assistant Treasurer
+</TD>
+</TR>
+</TABLE>
+<BR><BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 width=90%>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;</TD>
+     <TD COLSPAN=3>MICROSOFT T-HOLDINGS, INC.<BR><BR> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>By: </TD>
+     <TD COLSPAN=2> /s/ Lloyd Brenner</TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>&nbsp;&nbsp; </TD>
+     <TD COLSPAN=2><hr noshade size=1> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%> &nbsp;&nbsp;</TD>
+     <TD WIDTH=8%>
+Name:<BR>
+Title:
+</TD>
+     <TD WIDTH=37%>
+Lloyd Brenner<BR>
+Vice President
+</TD>
+</TR>
+</TABLE>
+
+<PAGE>
+
+<P ALIGN=CENTER>INDEX TO EXHIBITS</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0  WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=25%><U>Exhibit No.</U></TD>
+     <TD WIDTH=75%><U>Exhibit</U></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0  WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=25%>99.1</TD>
+     <TD WIDTH=75%>
+Joint Filing Statement, dated November&nbsp;25, 2002, between Microsoft Corporation,
+Microsoft Licensing, Inc. and Microsoft T-Holdings, Inc.
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0  WIDTH=100%>
+<TR VALIGN=TOP>
+     <TD WIDTH=25%>99.2</TD>
+     <TD WIDTH=75%>Item 7 Information</TD>
+</TR>
+</TABLE>
+<BR>
+
+<PAGE>
+
+<P ALIGN=RIGHT>EXHIBIT 99.1</P>
+
+
+<P ALIGN=CENTER>JOINT FILING STATEMENT</P>
+
+
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+accordance with Rule&#160;13d-1(k)(1) promulgated under the Securities Exchange
+Act of 1934, the undersigned agrees to the joint filing of a Statement on
+Schedule&#160;13G (including any and all amendments thereto) with respect to the
+Class A Common Stock, par value $0.01 per share, of Comcast Corporation and
+further agrees to the filing of this agreement as an Exhibit thereto. In
+addition, each party to this Agreement expressly authorizes each other party to
+this Agreement to file on its behalf any and all amendments to such Statement on
+Schedule&#160;13G.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This
+agreement may be executed in any number of counterparts, each of which shall be
+deemed to be an original and all of which together shall be deemed to constitute
+one and the same agreement.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN
+WITNESS WHEREOF, each of the undersigned hereby executes this agreement as of
+November&nbsp;25, 2002.</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 width=90%>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;</TD>
+     <TD COLSPAN=3>MICROSOFT CORPORATION<BR><BR></TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>By: </TD>
+     <TD COLSPAN=2> /s/ John G. Connors</TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>&nbsp;&nbsp; </TD>
+     <TD COLSPAN=2><hr noshade size=1> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%> &nbsp;&nbsp;</TD>
+     <TD WIDTH=8%>
+Name:<BR>
+Title:
+</TD>
+     <TD WIDTH=37%>
+John G. Connors<BR>
+Chief Financial Officer
+</TD>
+</TR>
+</TABLE>
+<BR>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 width=90%>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;</TD>
+     <TD COLSPAN=3>MICROSOFT LICENSING, INC.<BR><BR> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>By: </TD>
+     <TD COLSPAN=2> /s/ Lloyd Brenner</TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>&nbsp;&nbsp; </TD>
+     <TD COLSPAN=2><hr noshade size=1> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%> &nbsp;&nbsp;</TD>
+     <TD WIDTH=8%>
+Name:<BR>
+Title:
+</TD>
+     <TD WIDTH=37%>
+Lloyd Brenner<BR>
+Assistant Treasurer
+</TD>
+</TR>
+</TABLE>
+<BR><BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 width=90%>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;</TD>
+     <TD COLSPAN=3>MICROSOFT T-HOLDINGS, INC.<BR><BR> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>By: </TD>
+     <TD COLSPAN=2> /s/ Lloyd Brenner</TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%>&nbsp;&nbsp; </TD>
+     <TD COLSPAN=2><hr noshade size=1> </TD>
+</TR>
+<TR valign=top>
+     <TD WIDTH=50%>&nbsp;&nbsp; </TD>
+     <TD WIDTH=5%> &nbsp;&nbsp;</TD>
+     <TD WIDTH=8%>
+Name:<BR>
+Title:
+</TD>
+     <TD WIDTH=37%>
+Lloyd Brenner<BR>
+Vice President
+</TD>
+</TR>
+</TABLE>
+
+<PAGE>
+
+<P ALIGN=RIGHT>EXHIBIT 99.2</P>
+
+
+<P ALIGN=CENTER><B><U>ITEM 7 INFORMATION</U></B></P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+shares of Comcast Class A Common Stock beneficially owned by Microsoft
+Corporation are held directly by Microsoft T-Holdings, Inc., which is a
+wholly-owned subsidiary of Microsoft Licensing, Inc. and an indirect subsidiary
+of Microsoft Corporation. </P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
